@@ -1,3 +1,18 @@
 body{
     background-color: antiquewhite;
+    margin: auto;
+    width: 90%;
+}
+
+.kepek{
+    width: 1px;
+}
+.szöveg{
+    
+}
+.p{
+    
+}
+.fejlec{
+    text-align: center;
 }
