@@ -1,16 +1,21 @@
 body{
-    background-color: antiquewhite;
+    background-color: rgb(255, 207, 159);
     margin: auto;
-    width: 95%;
+    width: 90%;
 
    
 }
-#kepek{
-    width: max-content;
+.kepek{
+    width: auto;
+    height: auto;
+}
+#kepek1{
+    width: 10px;
 }
 
 .szöveg{
     font-size: large;
+    line-height: 130%;
 }
 .{
     
