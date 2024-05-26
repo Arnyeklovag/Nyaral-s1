@@ -1,7 +1,11 @@
 body{
-    background-color: rgb(255, 207, 159);
+    background-image:url(182840745-blue-outline-map-of-balaton-lake-isolated-vector-siilhouette-on-white-background.jpg) ;
+   background-size: cover;
+    opacity: 1;
     margin: auto;
-    width: 90%;
+    width: 90%; 
+    background-position: center ; 
+    background-attachment:fixed;
 
    
 }
@@ -16,6 +20,8 @@ body{
 .szöveg{
     font-size: large;
     line-height: 130%;
+    color: rgb(0, 0, 0);
+    font-family:  bold, sans-serif;
 }
 .{
     
@@ -23,11 +29,13 @@ body{
 
 .fejlec{
     text-align: center;
+    color: aliceblue;
 }
 
 #fej{
     font-size: xx-large;
     text-align: center;
+    color: aliceblue;
 }
 #navbar{
     background-color:rgb(255, 153, 69) ;
